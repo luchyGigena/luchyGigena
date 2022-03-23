@@ -28,4 +28,4 @@ I've worked as an administrative assistant for five years, that's why I'm except
 I'd like to be part of a team where I can keep growing, learning, and developing in this beautiful career I chose.
 
 Contact me! Tell me about your proposal to:
-lucilamfortunato@gmail.com or through LinkedIn direct message.
+gigenalucian@gmail.com or through LinkedIn direct message.
