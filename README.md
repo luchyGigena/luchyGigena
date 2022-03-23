@@ -1,6 +1,7 @@
 
-![developer](https://user-images.githubusercontent.com/73915741/159777013-4b561257-90ea-40e6-9817-e528933800d4.jpg)
 
+
+![1548686474966](https://user-images.githubusercontent.com/73915741/159779123-ec227988-5d1c-4a3d-83a4-ecc9a01302ba.jpg)
 
 
 
