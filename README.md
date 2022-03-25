@@ -35,3 +35,23 @@ I'd like to be part of a team where I can keep growing, learning, and developing
 
 Contact me! Tell me about your proposal to:
 gigenalucian@gmail.com or through LinkedIn direct message.
+
+
+
+
+
+ <div> Currently learning:
+    
+ <img align="center" alt="juan-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+ <img align="center" alt="juan-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  
+  <img align="center" alt="juan-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   
+  <img align="center" alt="juan-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
+
+
+  </div> <br>
+
+
+
