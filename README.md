@@ -55,7 +55,7 @@ gigenalucian@gmail.com or through LinkedIn direct message.
   
   </div> <br>
   
-  <div> Currently learning:
+  
     
  <img align="center" alt="juan-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
