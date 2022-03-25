@@ -3,7 +3,7 @@
 
 
 
-https://user-images.githubusercontent.com/73915741/159934260-e39e89d0-93c1-4334-8871-85969ec61385.mp4
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I'm+a+FrontEnd+Developer+and+Tech+PR)](https://git.io/typing-svg)
 
 
 
