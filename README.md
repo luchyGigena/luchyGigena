@@ -24,10 +24,11 @@ MY STACK
 . Sequelize
 . NodeJs
 . Express
+. Prisma
 . HTML5
 . CSS3
 . SCRUM methodologies
-. Bootstrap
+. Bootstrap | MUI | Chakra UI
 . Git | Github
 
 I've worked as an administrative assistant for five years, that's why I'm exceptionally well-organized, problem-solving, able to effectively multi-task, prioritize and take initiative.
